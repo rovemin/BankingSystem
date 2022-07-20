@@ -1,1 +1,6 @@
-# BankingSystem
+# BankingSystem: 은행계좌 관리 프로그램
+## 구현 기능
+* 계좌개설
+* 입금
+* 출금
+* 전체고객 잔액조회
